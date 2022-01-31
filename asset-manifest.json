@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39c484f6.chunk.css",
+    "main.js": "/static/js/main.ccfe1a2a.chunk.js",
+    "main.js.map": "/static/js/main.ccfe1a2a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f722674.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f722674.js.map",
+    "static/js/2.54756cae.chunk.js": "/static/js/2.54756cae.chunk.js",
+    "static/js/2.54756cae.chunk.js.map": "/static/js/2.54756cae.chunk.js.map",
+    "static/js/3.1723ee0c.chunk.js": "/static/js/3.1723ee0c.chunk.js",
+    "static/js/3.1723ee0c.chunk.js.map": "/static/js/3.1723ee0c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.39c484f6.chunk.css.map": "/static/css/main.39c484f6.chunk.css.map",
+    "static/js/2.54756cae.chunk.js.LICENSE.txt": "/static/js/2.54756cae.chunk.js.LICENSE.txt",
+    "static/media/Telegram_logo.28141391.svg": "/static/media/Telegram_logo.28141391.svg",
+    "static/media/index.css": "/static/media/WWBG.dc7d169a.jpg",
+    "static/media/WWLOGO.8e12441d.png": "/static/media/WWLOGO.8e12441d.png",
+    "static/media/busd.488237bc.svg": "/static/media/busd.488237bc.svg",
+    "static/media/metamask.55d59196.png": "/static/media/metamask.55d59196.png",
+    "static/media/trustwallet.8de17c9e.png": "/static/media/trustwallet.8de17c9e.png",
+    "static/media/walletconnect.1b22e784.png": "/static/media/walletconnect.1b22e784.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f722674.js",
+    "static/js/2.54756cae.chunk.js",
+    "static/css/main.39c484f6.chunk.css",
+    "static/js/main.ccfe1a2a.chunk.js"
+  ]
+}
