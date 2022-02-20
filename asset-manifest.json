@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.39c484f6.chunk.css",
-    "main.js": "/static/js/main.3557b33e.chunk.js",
-    "main.js.map": "/static/js/main.3557b33e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8f722674.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8f722674.js.map",
-    "static/js/2.54756cae.chunk.js": "/static/js/2.54756cae.chunk.js",
-    "static/js/2.54756cae.chunk.js.map": "/static/js/2.54756cae.chunk.js.map",
-    "static/js/3.1723ee0c.chunk.js": "/static/js/3.1723ee0c.chunk.js",
-    "static/js/3.1723ee0c.chunk.js.map": "/static/js/3.1723ee0c.chunk.js.map",
+    "main.css": "/static/css/main.b5fd5bd6.chunk.css",
+    "main.js": "/static/js/main.ba9e78bb.chunk.js",
+    "main.js.map": "/static/js/main.ba9e78bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d5aac466.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d5aac466.js.map",
+    "static/js/2.92393188.chunk.js": "/static/js/2.92393188.chunk.js",
+    "static/js/2.92393188.chunk.js.map": "/static/js/2.92393188.chunk.js.map",
+    "static/js/3.3a688808.chunk.js": "/static/js/3.3a688808.chunk.js",
+    "static/js/3.3a688808.chunk.js.map": "/static/js/3.3a688808.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.39c484f6.chunk.css.map": "/static/css/main.39c484f6.chunk.css.map",
-    "static/js/2.54756cae.chunk.js.LICENSE.txt": "/static/js/2.54756cae.chunk.js.LICENSE.txt",
+    "static/css/main.b5fd5bd6.chunk.css.map": "/static/css/main.b5fd5bd6.chunk.css.map",
+    "static/js/2.92393188.chunk.js.LICENSE.txt": "/static/js/2.92393188.chunk.js.LICENSE.txt",
     "static/media/Telegram_logo.28141391.svg": "/static/media/Telegram_logo.28141391.svg",
     "static/media/index.css": "/static/media/WWBG.dc7d169a.jpg",
     "static/media/WWLOGO.8e12441d.png": "/static/media/WWLOGO.8e12441d.png",
@@ -21,9 +21,9 @@
     "static/media/walletconnect.1b22e784.png": "/static/media/walletconnect.1b22e784.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f722674.js",
-    "static/js/2.54756cae.chunk.js",
-    "static/css/main.39c484f6.chunk.css",
-    "static/js/main.3557b33e.chunk.js"
+    "static/js/runtime-main.d5aac466.js",
+    "static/js/2.92393188.chunk.js",
+    "static/css/main.b5fd5bd6.chunk.css",
+    "static/js/main.ba9e78bb.chunk.js"
   ]
 }
